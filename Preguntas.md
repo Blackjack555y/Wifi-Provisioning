@@ -1,7 +1,7 @@
 # Preguntas sobre ESP32 — Redes y Servidores Web
 
-**Materia:** Sistemas Embebidos / IoT  
-**Fecha:** Mayo 2026
+**Materia:** IoT  
+**Fecha:** 14 de Mayo 2026
 
 ---
 
