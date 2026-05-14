@@ -1,5 +1,9 @@
 # ESP32 WiFi Provisioning — Portal Cautivo
 
+#Daniel David Gomez Britto
+#Juan Camilo Silva Velasco
+
+##Las preguntas estan en un archivo .md en el repo :l
 > Aprovisionamiento dinámico de credenciales WiFi para ESP32 mediante interfaz web local (portal cautivo). Sin necesidad de reprogramar el dispositivo.
 
 ---
