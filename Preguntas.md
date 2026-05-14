@@ -135,7 +135,7 @@ void loop() {
 
 ### Respuesta
 
-Esta comparación depende de la implementación específica, pero se puede analizar qué incluye cada opción y cómo eso impacta el uso de Flash.
+Esta comparación depende de la funcion específica, pero se puede analizar qué incluye cada opción y cómo eso impacta el uso de Flash.
 
 ### ¿Qué incluye cada opción?
 
